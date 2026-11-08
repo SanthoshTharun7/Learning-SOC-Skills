@@ -1,0 +1,20 @@
+ROOM: Wireshark: Packet Operations
+
+Resolved Address: Statisitics -> Resolved address
+Protocol Hiearchy 
+Conversation 
+Endpoint
+
+HTTP,DNS
+
+que. number of request by domain "x.x.com" 
+ans. statistics - http - load distribution - http.request
+
+
+contains,matches,in
+
+COnfigruation profile
+
+Predefined filter button
+
+capture proffile, display profile
