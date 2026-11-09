@@ -1,0 +1,9 @@
+Wireshark : Advanced Traffic Analysis
+
+```
+port 67: dhcp server
+
+port 68: dhcp client
+
+port 70: tftp server (repsonds ot read write)
+```
