@@ -7,3 +7,14 @@ port 68: dhcp client
 
 port 70: tftp server (repsonds ot read write)
 ```
+```
+arp.opcode == 1
+
+arp.opcode == 2
+
+arp.dst.hw_mac==00:00:00:00:00:00
+
+arp.duplicate-address-detected or arp.duplicate-address-frame
+
+((arp) && (arp.opcode == 1)) && (arp.src.hw_mac == target-mac-address)
+```
